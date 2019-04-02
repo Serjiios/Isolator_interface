@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.800,=C:\Users\Sergey\Desktop\isol\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.799,=C:\Users\Sergey\Desktop\isol\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.660,=C:\Users\Sergey\Desktop\isol\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.315,=C:\Users\Sergey\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,=C:\Users\Sergey\Desktop\isol\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.976,=C:\Users\Sergey\Desktop\isol\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.076,=C:\Users\Sergey\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.810,=C:\Users\Sergey\Desktop\isol\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.020,=C:\Users\Sergey\Desktop\isol\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.362,C:\Users\Sergey\Desktop\isol\Unit1.dfm=C:\Users\Sergey\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.362,C:\Users\Sergey\Desktop\isol\Unit1.pas=C:\Users\Sergey\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.871,=C:\Users\Sergey\Desktop\isol\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.304,C:\Users\Sergey\Desktop\isol\Project1.dproj=C:\Users\Sergey\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.687,=C:\Users\Sergey\Desktop\isol\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.968,=C:\Users\Sergey\Desktop\isol\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
